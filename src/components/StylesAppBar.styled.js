@@ -8,6 +8,8 @@ const Header = styled.header`
     padding: 30px 30px;
     align-items: center;
     border-bottom: 1px solid #2A363B;
+    background-color: #85ba1c;
+    border-radius: 40px;
     `
 
 const Link = styled(NavLink)`

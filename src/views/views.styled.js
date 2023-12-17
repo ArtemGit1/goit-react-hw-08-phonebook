@@ -15,6 +15,7 @@ font-weight: 900;
 margin: 15px 0px;
 color: #F5FFFA;
 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+font-family: 'Arial', sans-serif;
 
   `
 const H2 = styled.h2`
